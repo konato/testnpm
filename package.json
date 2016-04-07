@@ -1,0 +1,26 @@
+{
+  "name": "@konato/projet",
+  "version": "0.0.1",
+  "description": "projet test how-to-npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/konato/testnpm.git"
+  },
+  "keywords": [
+    "npm",
+    "how-to"
+  ],
+  "author": "stephaner@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/konato/testnpm/issues"
+  },
+  "homepage": "https://github.com/konato/testnpm#readme",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  }
+}
